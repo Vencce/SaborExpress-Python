@@ -23,4 +23,24 @@ O principal objetivo deste projeto foi demonstrar um bom design de classes e o r
 -   **Composição:** Demonstração de como um objeto (Restaurante) é "composto" por outros objetos (como uma instância de `Cardapio` ou uma lista de `Avaliacao`).
 -   **Métodos Mágicos (`__str__`):** Implementação de métodos especiais para definir uma representação em string "amigável" para os objetos, facilitando a exibição na função `listar_restaurantes`.
 
-## 🚀 Como Executar
+## 🚀 Como Executar o Projeto
+
+1.  **Clone o repositório:**
+    ```bash
+    git clone [https://github.com/Vencce/SaborExpress-Python.git](https://github.com/Vencce/SaborExpress-Python.git)
+    ```
+
+2.  **Acesse a pasta do projeto:**
+    ```bash
+    cd SaborExpress-Python
+    ```
+
+3.  **Execute o arquivo principal:**
+    ```bash
+    python app.py
+    ```
+    *(ou o nome do seu arquivo principal, como `main.py`)*
+
+---
+
+Desenvolvido por [Vitor Ferreira](https://github.com/Vencce) como parte dos estudos de Programação Orientada a Objetos com Python.
