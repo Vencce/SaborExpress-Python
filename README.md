@@ -39,7 +39,6 @@ O principal objetivo deste projeto foi demonstrar um bom design de classes e o r
     ```bash
     python app.py
     ```
-    *(ou o nome do seu arquivo principal, como `main.py`)*
 
 ---
 
